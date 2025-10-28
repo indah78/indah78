@@ -13,10 +13,10 @@ Saat ini saya sedang mempelajari **Pemrograman Mobile** 📱 dan berbagai teknol
 ---
 
 ## 💡 Minat & Hobi
-- ✨ Belajar dan mengajar
-- 🎧 Mendengarkan musik dan menonton film
+- ✨ Belajar dan Terus Berusaha
+- 🎧 Mendengarkan musik, menonton film, da memasak
 - ✈️ Traveling & mengeksplor tempat baru
-- 🧠 Belajar tentang psikologi dan kesehatan mental
+
 
 ---
 
