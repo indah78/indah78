@@ -33,7 +33,7 @@ Saat ini saya sedang mempelajari **Pemrograman Mobile** 📱 dan berbagai teknol
 | 7  | 04       | 04           | -               | [Modul 07](https://drive.google.com/file/d/1GWbOMI3I0NNftmzTGEGadmrHcJCNJUNe/view?usp=sharing)  | [Laporan Modul 07](#) |
 | 8  | 04        | 04           | -               | [Modul 08](https://drive.google.com/file/d/1OHCr0xOEASoXrYt2cOhiQhDzg18zN5c_/view?usp=sharing)  | [Laporan Modul 08](#) |
 | 9  | 05        | 05           | -               | [Modul 09](https://drive.google.com/file/d/1OQPr-kLyFfhmRJREdj7UjPMYsDpOt11E/view?usp=sharing)  | [Laporan Modul 09](#) |
-| 10  | 06        | 06           | -               | [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](#) |
+| 10  | 06        | 06           | -               | [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](https://drive.google.com/drive/folders/1XdAowCx2HiyxH2J-iwyxTOhXQhSP6mvb) |
 | 11  | 07        | 07           | -               | [Modul 11](https://drive.google.com/file/d/1LFSU9hLjlG96Iq48ZiTbAxnnhztGhUae/view?usp=sharing)  | [Laporan Modul 11](#) |
 | 12  | 00        | 00           | Akses Lokasi dengan GPS di Flutter               | [Modul 12](#)  | [Laporan Modul 12](#) |
 | 13  | 00        | 00           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API              | [Modul 13](#)  | [Laporan Modul 13](#) |
