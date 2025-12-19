@@ -39,7 +39,7 @@ Saat ini saya sedang mempelajari **Pemrograman Mobile** 📱 dan berbagai teknol
 | 13  | 00        | 00           | -               | [Modul 13](#)  | [Laporan Modul 13](#) |
 | 14  | 00        | 00           | -               | [Modul 14](#)  | [Laporan Modul 14](#) |
 | 14  | 00        | 00           | -               | [Modul 14](#)  | [Laporan Modul 14](#) |
-| 15  | 00        | 00           | -               | [UTS](#)  | [Laporan Modul 14](https://drive.google.com/file/d/10SmEIJ9ZzLxWFHBrDRS8O-Ki9YgPBzxt/view?usp=sharing) |
+| 15  | 00        | 00           | -               | [UTS](#)  | [UTS](https://drive.google.com/file/d/10SmEIJ9ZzLxWFHBrDRS8O-Ki9YgPBzxt/view?usp=sharing) |
 ---
 
 > _“Belajar tidak harus cepat, yang penting konsisten dan menikmati prosesnya.”_ 🌷
